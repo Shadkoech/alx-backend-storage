@@ -6,7 +6,7 @@ This project focuses on understanding and implementing NoSQL concepts, specifica
 
 ## Overview
 
-In this project, we delve into the world of NoSQL databases, particularly MongoDB, to understand its principles, advantages, and practical implementation. NoSQL databases offer flexibility and scalability, making them suitable for modern applications where structured data is not a necessity. Through this project, we aim to grasp the core concepts of NoSQL, differentiate it from SQL databases, and gain hands-on experience with MongoDB.
+In this project, I delve into the world of NoSQL databases, particularly MongoDB, to understand its principles, advantages, and practical implementation. NoSQL databases offer flexibility and scalability, making them suitable for modern applications where structured data is not a necessity. Through this project, I aimed to grasp the core concepts of NoSQL, differentiate it from SQL databases, and gain hands-on experience with MongoDB.
 
 ## Installation
 
@@ -24,3 +24,15 @@ In this project, we delve into the world of NoSQL databases, particularly MongoD
 
 ### To install PyMongo:
 `$ pip3 install pymongo`
+
+
+## Tasks
+Some of the major tasks I went through for the challenge accomplished the following actions:
+
+- Listing databases
+- Creating and using databases
+- Inserting
+- Updating databases and deleting documents
+- Counting documents
+- Filtering documents based on certain criteria
+- Performing statistics analysis on log data.
