@@ -4,7 +4,7 @@ Python module that uses Redis NoSQL for data storage """
 
 import redis
 import uuid
-from typing import Union, Callable
+from typing import Union, Callable, Optional
 
 
 class Cache:
