@@ -4,7 +4,7 @@ Having a good grasp of storage mechanism is a key concept to any backend develop
 
 This repository delves into the intricacies of storage in the context of:
 
-[0x00-MySQL_Advanced](0x00-MySQL_Advanced)
-[0x01-NoSQL](0x01-NoSQL)
-[0x02-redis_basic](0x02-redis_basic)
+1. [0x00-MySQL_Advanced](0x00-MySQL_Advanced)
+2. [0x01-NoSQL](0x01-NoSQL)
+3. [0x02-redis_basic](0x02-redis_basic)
 
